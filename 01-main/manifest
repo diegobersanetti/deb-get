@@ -1,5 +1,6 @@
 https://raw.githubusercontent.com/wimpysworld/deb-get/main/01-main
 1password
+activitywatch
 agena
 alduin
 android-messages-desktop
@@ -59,8 +60,8 @@ duf
 dustracing2d
 element-desktop
 enpass
-exodus
 exifcleaner
+#exodus
 expressvpn
 fail2ban
 fastfetch
@@ -140,12 +141,14 @@ minigalaxy
 minikube
 motrix
 mpdevil
-ms-office-electron
+#ms-office-electron
+ms-365-electron
 mullvad-vpn
 nala
 nala-legacy
 neo4j
 #neovim
+nemo-mediainfo-tab
 nextcloud-desktop
 nomad
 nordvpn
