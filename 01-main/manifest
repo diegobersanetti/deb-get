@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/wimpysworld/deb-get/main/01-main
 activitywatch
 agena
 alduin
+alsa-scarlett-gui
 android-messages-desktop
 antimicrox
 anydesk
@@ -153,6 +154,7 @@ kse
 ksnip
 kwaterfoxhelper
 lens
+libation
 libreoffice
 librewolf
 limoji
@@ -188,6 +190,7 @@ nala
 nekoray
 nemo-mediainfo-tab
 neo4j
+neo-htop
 nextcloud-desktop
 nodejs
 nomad
@@ -331,6 +334,7 @@ winehq-staging
 wire-desktop
 # wraith-master
 xemu
+xpipe
 youtube-music
 yq
 yubikey-manager
