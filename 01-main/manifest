@@ -19,6 +19,7 @@ azuredatastudio
 balena-etcher
 bat
 battery-monitor
+beekeeper-studio
 beersmith3
 bitwarden
 bitwig-studio
@@ -29,6 +30,7 @@ bottom
 brave-browser
 brisqi
 browsh
+bruno
 caddy
 caprine
 cawbird
@@ -45,11 +47,14 @@ crow-translate
 cryptomator
 cudatext
 cw-tail
+davmail
 dbeaver-ce
+dbgate
 deadbeef-static
 deborah
 deltachat-desktop
 deskcut
+deskflow
 deskreen
 detectiteasy
 discord
@@ -90,6 +95,7 @@ franz
 freeshow
 frostwire
 fsearch
+g
 ganttproject
 gb-studio
 gcm
@@ -129,6 +135,7 @@ influxdb
 influxdb2
 influxdb2-cli
 inkscape
+input-leap
 insomnia
 insync
 ipfs-desktop
@@ -166,6 +173,7 @@ lutris
 mailspring
 makedeb
 manuskript
+marktext
 master-pdf-editor-5
 mattermost-desktop
 mdview
@@ -269,6 +277,7 @@ songrec
 soundux
 speedtest
 spotify-client
+spotube
 standard-notes
 starcal3
 strawberry
@@ -338,6 +347,7 @@ xemu
 xpipe
 youtube-music
 yq
+ytdownloader
 yubikey-manager
 zenith
 zettlr
