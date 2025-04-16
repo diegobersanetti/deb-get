@@ -76,7 +76,7 @@ emptyepsilon
 enpass
 eversticky
 exifcleaner
-expressvpn
+#expressvpn
 fail2ban
 fastfetch
 fd
@@ -91,6 +91,7 @@ firefox-devedition
 firefox-esr
 firefox-nightly
 flameshot
+flowkeeper
 foliate
 franz
 freeshow
@@ -204,7 +205,7 @@ nala
 nekoray
 nemo-mediainfo-tab
 neo4j
-neohtop
+neo-htop
 nextcloud-desktop
 nodejs
 nomad
@@ -292,6 +293,7 @@ sublime-merge
 sublime-text
 sunshine
 surfshark
+suwayomi-server
 syft
 syncthing
 system-monitoring-center
@@ -320,6 +322,7 @@ tonelib-metal
 tonelib-noisereducer
 tonelib-tubewarmth
 tonelib-zoom
+topgrade
 tribler
 trilium
 trivy
@@ -352,7 +355,7 @@ wire-desktop
 xemu
 xpipe
 youtube-music
-yq
+#yq
 ytdownloader
 yubikey-manager
 zenith
