@@ -74,6 +74,8 @@ element-desktop
 emby-server
 emptyepsilon
 enpass
+espanso
+espanso-wayland
 eversticky
 exifcleaner
 #expressvpn
@@ -157,6 +159,7 @@ jellyfin-media-player
 jexiftoolgui
 jitsi-meet-electron
 jupyterlab-desktop
+k9s
 kapacitor
 kdiskmark
 keepassxc
@@ -315,6 +318,7 @@ thinlinc-client
 thorium-browser
 ticktick
 tidal-hifi
+tinygo
 tixati
 tofu
 tonelib-bassdrive
