@@ -34,7 +34,7 @@ browsh
 bruno
 caddy
 caprine
-cawbird
+#cawbird
 chronograf
 code
 codium
@@ -75,6 +75,7 @@ element-desktop
 emby-server
 emptyepsilon
 enpass
+ente
 espanso
 espanso-wayland
 eversticky
@@ -149,6 +150,7 @@ inkscape
 input-leap
 insomnia
 insync
+ipscan
 ipfs-desktop
 irccloud-desktop
 iriunwebcam
@@ -300,6 +302,7 @@ spotify-client
 spotube
 standard-notes
 starcal3
+steampipe
 strawberry
 stream-sprout
 stremio
@@ -311,6 +314,7 @@ suwayomi-server
 syft
 syncthing
 system-monitoring-center
+systemd-manager-tui
 tabby-terminal
 tailscale
 tarsnap
