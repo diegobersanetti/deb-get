@@ -71,6 +71,7 @@ du-dust
 duf
 dustracing2d
 eaglemode
+eduvpn-client
 element-desktop
 emby-server
 emptyepsilon
@@ -276,12 +277,14 @@ quickobs
 rambox
 rclone
 rclone-ui
+rcloneview
 readest
 resilio-sync
 retroarch
 ripgrep
 rocketchat
 rpi-imager
+rquickshare
 rstudio
 rstudio-server
 rustdesk
