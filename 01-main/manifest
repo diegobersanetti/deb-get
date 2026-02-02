@@ -42,7 +42,7 @@ copyq
 cosign
 cronopete
 crossover
-crow-translate
+#crow-translate
 cryptomator
 cudatext
 cw-tail
@@ -264,7 +264,7 @@ plexmediaserver
 plow
 polychromatic
 pomatez
-popcorn-time
+#popcorn-time
 portmaster
 powershell
 protonmail-bridge
