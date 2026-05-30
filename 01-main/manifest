@@ -37,6 +37,7 @@ bruno
 caddy
 caprine
 #cawbird
+chezmoi
 chronograf
 clamav
 code
@@ -94,6 +95,7 @@ fail2ban
 fastfetch
 fd
 fedistar
+feishin
 ferdium
 figma-linux
 filen
@@ -190,6 +192,7 @@ kapacitor
 kdiskmark
 keepassxc
 keybase
+keymapper
 kopia-ui
 koodo-reader
 koreader
@@ -267,6 +270,8 @@ onefetch
 onlyoffice-desktopeditors
 open-work
 openaudible
+openboardview
+opencode
 openrazer-meta
 openrgb
 opera-stable
@@ -376,6 +381,7 @@ ticktick
 tidal-hifi
 tinygo
 tixati
+tlrc
 tofu
 tonelib-bassdrive
 tonelib-gfx
