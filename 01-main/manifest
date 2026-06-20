@@ -86,6 +86,8 @@ emptyepsilon
 enpass
 ente
 enteauth
+episteme
+episteme-oss
 espanso
 espanso-wayland
 eversticky
@@ -101,6 +103,7 @@ figma-linux
 filen
 filezilla-theme-papirus
 final2x
+findeb
 firefox
 firefox-beta
 firefox-devedition
@@ -286,7 +289,8 @@ pdfsam-visual
 peazip
 pet
 #picocrypt-gui
-picocrypt-ng-gui
+picocrypt-ng
+#picocrypt-ng-gui
 pixieditor
 playtorrio
 plexmediaserver
