@@ -121,6 +121,7 @@ freeshow
 fresh-editor
 frostwire
 fsearch
+fzf
 g
 ganttproject
 gb-studio
@@ -416,6 +417,7 @@ vfox
 #virtualbox-6.1
 #virtualbox-7.0
 virtualbox-7.1
+virtualbox-7.2
 vivaldi-stable
 vuescan
 wasistlos
