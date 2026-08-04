@@ -9,6 +9,7 @@ amdgpu-top
 android-messages-desktop
 antimicrox
 anydesk
+appflowy
 appimagelauncher
 aptakube
 atom
@@ -40,6 +41,7 @@ caprine
 chezmoi
 chronograf
 clamav
+clockify
 code
 codium
 #com.github.tkashkin.gamehub
@@ -256,6 +258,7 @@ nemo-mediainfo-tab
 neo4j
 neo-htop
 net.downloadhelper.coapp
+nexis
 nextcloud-desktop
 nfpm
 nodejs
@@ -340,6 +343,7 @@ shutter-encoder
 signal-desktop
 simplenote
 simple-pwgen
+siyuan
 skypeforlinux
 slack-desktop
 slackdump
@@ -374,6 +378,7 @@ system-monitoring-center
 systemd-manager-tui
 tabby-terminal
 tailscale
+tapmap
 tarsnap
 teams-for-linux
 teamviewer
@@ -449,6 +454,7 @@ youtube-music
 #yq
 ytdownloader
 yubikey-manager
+zapzap
 zenith
 zettlr
 zoom
