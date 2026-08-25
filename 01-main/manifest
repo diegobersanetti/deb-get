@@ -232,6 +232,7 @@ mdview
 media-downloader
 mediathekview
 mergerfs
+meta-clean
 #micro
 microsoft-edge-stable
 min
@@ -260,6 +261,7 @@ neo-htop
 net.downloadhelper.coapp
 nexis
 nextcloud-desktop
+nextpad-plus-plus
 nfpm
 nodejs
 nomad
@@ -410,6 +412,7 @@ topgrade
 tribler
 trilium
 trivy
+tura-gui
 tux-manager
 typora
 ubuntu-make
