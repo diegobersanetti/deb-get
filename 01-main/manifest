@@ -7,6 +7,7 @@ alsa-scarlett-gui
 #alt-sendme
 amdgpu-top
 android-messages-desktop
+antigravity
 antimicrox
 anydesk
 appflowy
@@ -35,6 +36,7 @@ brave-browser
 brisqi
 browsh
 bruno
+cable
 caddy
 caprine
 #cawbird
@@ -338,6 +340,7 @@ rpi-imager
 r-quick-share
 rstudio
 rstudio-server
+rustconn
 rustdesk
 schildichat-desktop
 sejda-desktop
@@ -381,6 +384,7 @@ synology-drive
 system-monitoring-center
 systemd-manager-tui
 tabby-terminal
+tailcat
 tailscale
 tapmap
 tarsnap
