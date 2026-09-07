@@ -7,6 +7,7 @@ alsa-scarlett-gui
 #alt-sendme
 amdgpu-top
 android-messages-desktop
+ang-kor-git
 antigravity
 antimicrox
 anydesk
@@ -33,6 +34,7 @@ blanket
 blockbench
 bottom
 brave-browser
+brave-origin
 brisqi
 browsh
 bruno
@@ -40,6 +42,7 @@ cable
 caddy
 caprine
 #cawbird
+chatgpt
 chezmoi
 chronograf
 clamav
@@ -244,6 +247,7 @@ minikube
 mise
 motrix
 mpdevil
+mpris-miniplayer
 mqttx
 ms-365-electron
 mucommander
