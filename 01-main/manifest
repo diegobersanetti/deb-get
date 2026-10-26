@@ -14,6 +14,7 @@ anydesk
 appflowy
 appimagelauncher
 aptakube
+aster-mail
 atom
 atomic
 audio-recorder
@@ -222,6 +223,7 @@ lens
 libation
 libreoffice
 librewolf
+lightning
 linux-assistant
 linuxtoys
 limoji
@@ -323,9 +325,10 @@ portmaster
 powershell
 prelora-desktop
 protonmail-bridge
-protonvpn
+#protonvpn
 proton-authenticator
 proton-pass
+proton-vpn-gnome-desktop
 publii
 pulsar
 pulse-sms
@@ -406,6 +409,7 @@ termius-app
 termix
 terraform
 terratactician-expandoria
+tesseract-matrix
 texworks
 tezos-baking
 thinlinc-client
@@ -444,6 +448,7 @@ vfox
 virtualbox-7.1
 virtualbox-7.2
 vivaldi-stable
+voxtype
 vuescan
 wasistlos
 waterfox-g-kde
