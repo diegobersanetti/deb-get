@@ -29,6 +29,7 @@ bcompare
 beekeeper-studio
 beersmith3
 beszel-agent
+biopass
 bitwarden
 bitwig-studio
 blanket
@@ -98,6 +99,7 @@ ente
 enteauth
 episteme
 episteme-oss
+equibop
 espanso
 espanso-wayland
 eversticky
@@ -138,6 +140,7 @@ gb-studio
 gcm
 getnf
 gh
+ghost-downloader
 #gifski
 git-butler
 git-delta
@@ -190,6 +193,7 @@ insomnia
 insync
 ipscan
 ipfs-desktop
+iptvnator
 irccloud-desktop
 iriunwebcam
 ivpn-ui
@@ -229,6 +233,7 @@ linuxtoys
 limoji
 littlesnitch
 localsend
+lookout
 lsd
 ludo
 lutris
@@ -265,6 +270,7 @@ mypass
 nala
 naps2
 navidrome
+nectarlink
 nekoray
 nemo-mediainfo-tab
 neo4j
@@ -307,6 +313,7 @@ pandoc
 papirus-folders
 papirus-icon-theme
 paseo
+pdfcraft
 pdfsam-basic
 pdfsam-visual
 peazip
@@ -342,6 +349,7 @@ quickgui
 rambox
 rapid-raw
 rclone
+r-clone-manager
 rclone-ui
 rcloneview
 readest
@@ -364,6 +372,7 @@ sidra
 signal-desktop
 simplenote
 simple-pwgen
+simplex
 siyuan
 skypeforlinux
 slack-desktop
@@ -397,6 +406,7 @@ syncthing
 synology-drive
 system-monitoring-center
 systemd-manager-tui
+t3code
 tabby-terminal
 tailcat
 tailscale
@@ -480,6 +490,7 @@ youtube-music
 #yq
 ytdownloader
 yubikey-manager
+zapfast
 zapzap
 zenith
 zettlr
